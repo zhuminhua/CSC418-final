@@ -1,6 +1,6 @@
 # CSC418-final-image
 ## Note
-Since markus only allows me to upload files no bigger than 5MB, I upload my input image separately. Please download them and move them into `images` folder in the `source` folder, and then the project can be run. OR please get the input images folder from https://github.com/zhuminhua/CSC418-final <br>
+Since markus only allows me to upload files no bigger than 5MB, I upload my input image separately. Please download them and move them into `images` folder in the `source` folder, and then the project can be run. OR please get the input images folder from https://github.com/zhuminhua/CSC418-final/tree/master/images <br>
 
 ## what is about
 The project is based on code I write in assignment3. New files are added and some odd files won't be used.<br>
