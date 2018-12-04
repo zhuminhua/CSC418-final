@@ -20,5 +20,3 @@ This file is used to add the cat to the blurred background.
 `src/rgb_to_rgba.cpp`<br>
 
 There are also files I have modified (main.cpp etc.)
-
-## output
